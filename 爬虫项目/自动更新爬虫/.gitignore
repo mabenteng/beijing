@@ -1,0 +1,5 @@
+__pycache__
+.vscode
+.ipynb_*
+log/everyday_tht.txt
+log/today.log
